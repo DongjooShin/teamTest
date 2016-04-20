@@ -271,7 +271,7 @@ img.wp-smiley, img.emoji {
                                        href="content.jsp">아파트 시세</a></li>
                                     <li id="menu-item-106"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a
-                                       href="content.jsp">아파트 이미지</a></li>
+                                       href="imsu.jsp">아파트 이미지</a></li>
                                     <li id="menu-item-107"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a
                                        href="content.jsp">CCTV정보</a></li>
