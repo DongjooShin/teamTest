@@ -298,7 +298,7 @@ img.wp-smiley, img.emoji {
                                        href="content.jsp">아파트 이미지</a></li>
                                     <li id="menu-item-107"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a
-                                       href="content.jsp">CCTV정보</a></li>
+                                       href="gi.jsp">CCTV정보</a></li>
                                     <li id="menu-item-107"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a
                                        href="content.jsp">주변정보</a></li>
