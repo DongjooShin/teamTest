@@ -265,7 +265,7 @@ img.wp-smiley, img.emoji {
                                  <ul class="sub-menu">
                                     <li id="menu-item-109"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a
-                                       href="news.jsp">부동산 뉴스</a></li>
+                                       href="kkt.jsp">부동산 뉴스</a></li>
                                     <li id="menu-item-108"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a
                                        href="content.jsp">아파트 시세</a></li>
