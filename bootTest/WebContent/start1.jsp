@@ -265,19 +265,19 @@ img.wp-smiley, img.emoji {
                                  <ul class="sub-menu">
                                     <li id="menu-item-109"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a
-                                       href="news.jsp">부동산 뉴스</a></li>
+                                       href="kkt.jsp">부동산 뉴스</a></li>
                                     <li id="menu-item-108"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a
                                        href="jeonghwa.jsp">아파트 시세</a></li>
                                     <li id="menu-item-106"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a
-                                       href="content.jsp">아파트 이미지</a></li>
+                                       href="imsu.jsp">아파트 이미지</a></li>
                                     <li id="menu-item-107"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a
                                        href="content.jsp">CCTV정보</a></li>
                                     <li id="menu-item-107"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a
-                                       href="content.jsp">주변정보</a></li>
+                                       href="MIN.jsp">주변정보</a></li>
                                        
                                  </ul>
                                  
