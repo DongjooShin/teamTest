@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h3>경태가 짱이다.ㅁ니아러마ㅣㄴ얼</h3>
+	<h3>경태가 짱이다</h3>
 </body>
 </html>
