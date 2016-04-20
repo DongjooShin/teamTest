@@ -9,6 +9,10 @@
 <body>
 
 
-내이름은 이기대~ 꺼꾸로해두 이기대 이기대~ 이기대~dsgsdsgfsgssf
+<<<<<<< HEAD
+내이름은 이기대~ 꺼꾸로해두 이기대 이기대~ 이기대~dsgsdsgfsgssfasdasdas
+=======
+내이름은 이기대~ 꺼꾸로해두 이기대 이기대~ 이기대~sadasdasXsxxasdas
+>>>>>>> refs/heads/vdsvsdnvjsi
 </body>
 </html>
