@@ -12,7 +12,7 @@
 <<<<<<< HEAD
 내이름은 이기대~ 꺼꾸로해두 이기대 이기대~ 이기대~dsgsdsgfsgssfasdasdas
 =======
-내이름은 이기대~ 꺼꾸로해두 이기대 이기대~ 이기대~sadasdasXsxxasdas
+내이름은 이기대~ 꺼꾸로해두 이기대 이기대~ 이기대~sadasdasXsxxasdasasdasds
 >>>>>>> refs/heads/vdsvsdnvjsi
 </body>
 </html>
