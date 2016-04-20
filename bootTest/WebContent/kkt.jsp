@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>content</h1>
-	<h2>sfsdffdsfsfd</h2>
-	<h2>fsdfsdf</h2>
-	<h3>sdfdsfsf</h3>
+	<h3>경태가 짱이다</h3>
 </body>
 </html>
