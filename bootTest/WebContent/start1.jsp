@@ -268,7 +268,7 @@ img.wp-smiley, img.emoji {
                                        href="news.jsp">부동산 뉴스</a></li>
                                     <li id="menu-item-108"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a
-                                       href="content.jsp">아파트 시세</a></li>
+                                       href="jeonghwa.jsp">아파트 시세</a></li>
                                     <li id="menu-item-106"
                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a
                                        href="imsu.jsp">아파트 이미지</a></li>
